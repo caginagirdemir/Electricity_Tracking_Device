@@ -1,6 +1,8 @@
 # Bachelor_Thesis
 Make Own Your Object Project Codes written in C and C#
 
-| Library  | Explanation |
+| Specs  | Explanation |
 | ------------- | ------------- |
-| SerialPort
+| Library | SerialPort |
+| Handshake message | komut1 |
+

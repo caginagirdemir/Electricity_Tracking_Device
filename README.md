@@ -1,8 +1,10 @@
 # Bachelor_Thesis
-Make Own Your Object Project Codes written in C and C#
+Make Own Your Object Project
 
-| Specs  | Explanation |
+| Program Specs  | Explanation |
 | ------------- | ------------- |
+| IDE | Visual Studio |
+| Language | C#|
 | Library | SerialPort |
 | Handshake message | komut1 |
 

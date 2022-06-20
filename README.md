@@ -1,4 +1,6 @@
-# Bachelor_Thesis
+# Electricity Tracking Device
+
+
 Make Own Your Object Project
 
 | Program Specs  | Explanation |

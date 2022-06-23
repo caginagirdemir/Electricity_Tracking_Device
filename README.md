@@ -3,6 +3,10 @@
 
 Make Own Your Object Project
 
+<img src="program_software.png" width="576" height="273" />
+
+<img src="project_hardware.jpeg" width="600" height="337" />
+
 | Program Specs  | Explanation |
 | ------------- | ------------- |
 | IDE | Visual Studio |
